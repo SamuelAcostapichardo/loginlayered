@@ -1,0 +1,11 @@
+C:\Users\sam82\source\repos\loginlayered\dominios\bin\Debug\dominios.dll
+C:\Users\sam82\source\repos\loginlayered\dominios\bin\Debug\dominios.pdb
+C:\Users\sam82\source\repos\loginlayered\dominios\bin\Debug\Accesoadatos.dll
+C:\Users\sam82\source\repos\loginlayered\dominios\bin\Debug\Accesoadatos.pdb
+C:\Users\sam82\source\repos\loginlayered\dominios\obj\Debug\dominios.csprojAssemblyReference.cache
+C:\Users\sam82\source\repos\loginlayered\dominios\obj\Debug\dominios.csproj.CoreCompileInputs.cache
+C:\Users\sam82\source\repos\loginlayered\dominios\obj\Debug\dominios.csproj.CopyComplete
+C:\Users\sam82\source\repos\loginlayered\dominios\obj\Debug\dominios.dll
+C:\Users\sam82\source\repos\loginlayered\dominios\obj\Debug\dominios.pdb
+C:\Users\sam82\source\repos\loginlayered\dominios\bin\Debug\capacomun.dll
+C:\Users\sam82\source\repos\loginlayered\dominios\bin\Debug\capacomun.pdb

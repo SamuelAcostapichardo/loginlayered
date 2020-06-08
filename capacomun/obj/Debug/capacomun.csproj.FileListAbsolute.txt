@@ -1,0 +1,6 @@
+C:\Users\sam82\source\repos\loginlayered\capacomun\bin\Debug\capacomun.dll
+C:\Users\sam82\source\repos\loginlayered\capacomun\bin\Debug\capacomun.pdb
+C:\Users\sam82\source\repos\loginlayered\capacomun\obj\Debug\capacomun.csprojAssemblyReference.cache
+C:\Users\sam82\source\repos\loginlayered\capacomun\obj\Debug\capacomun.csproj.CoreCompileInputs.cache
+C:\Users\sam82\source\repos\loginlayered\capacomun\obj\Debug\capacomun.dll
+C:\Users\sam82\source\repos\loginlayered\capacomun\obj\Debug\capacomun.pdb

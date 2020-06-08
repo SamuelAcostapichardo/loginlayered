@@ -1,0 +1,9 @@
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\bin\Debug\Accesoadatos.dll
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\bin\Debug\Accesoadatos.pdb
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\obj\Debug\Accesoadatos.csprojAssemblyReference.cache
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\obj\Debug\Accesoadatos.csproj.CoreCompileInputs.cache
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\obj\Debug\Accesoadatos.dll
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\obj\Debug\Accesoadatos.pdb
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\bin\Debug\capacomun.dll
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\bin\Debug\capacomun.pdb
+C:\Users\sam82\source\repos\loginlayered\Accesoadatos\obj\Debug\Accesoadatos.csproj.CopyComplete
